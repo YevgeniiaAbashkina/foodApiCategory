@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/foodApiCategory/static/css/main.7024d5ab.chunk.css",
-    "main.js": "/foodApiCategory/static/js/main.3d8ed899.chunk.js",
-    "main.js.map": "/foodApiCategory/static/js/main.3d8ed899.chunk.js.map",
+    "main.js": "/foodApiCategory/static/js/main.4d9eaa92.chunk.js",
+    "main.js.map": "/foodApiCategory/static/js/main.4d9eaa92.chunk.js.map",
     "runtime-main.js": "/foodApiCategory/static/js/runtime-main.cfe07909.js",
     "runtime-main.js.map": "/foodApiCategory/static/js/runtime-main.cfe07909.js.map",
     "static/css/2.28bb0c3d.chunk.css": "/foodApiCategory/static/css/2.28bb0c3d.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.28bb0c3d.chunk.css",
     "static/js/2.df2cce78.chunk.js",
     "static/css/main.7024d5ab.chunk.css",
-    "static/js/main.3d8ed899.chunk.js"
+    "static/js/main.4d9eaa92.chunk.js"
   ]
 }
